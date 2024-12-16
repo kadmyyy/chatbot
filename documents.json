@@ -1,0 +1,327 @@
+[
+    {
+        "instruction": "Reserve De Bandia",
+        "output": "Une jolie réserve naturelle, girafes, zèbres, phacochères, crocodiles etc... Une belle balade, les animaux ont l'air en bonne santé et bien nourris. Heureusement que notre guide était là car le guide officiel sur place n'était pas généreux en explications... Olivier notre guide nous a donné beaucoup d'informations et il a été très gentil avec les enfants, je vous recommande ses services, nous l'avons trouvé grâce à Secretoo."
+    },
+    {
+        "instruction": "La Maison des Esclaves",
+        "output": "Chargé d'informer, conseiller, et orienter les voyageurs, l'Office de tourisme de Casamance est situé dans l'un des plus anciens et remarquables bâtiments de la ville de Ziguinchor, en face de la ..."
+    },
+    {
+        "instruction": "Parc national des oiseaux du Djoudj",
+        "output": "Nous avons été accompagnés depuis l'Hôtel de la Poste à Saint Louis par DJIBI notre chauffeur guide qui nous a conduit au Djoudj en partant tôt le matin à 7h. Arrivée sur place à 8h15 puis 2 petites heures merveilleuses sur une pirogue aménagée le long du fleuve/lac. On voit des centaines de pélicans tout autour de nous, de très près. C'est magique. Beaucoup d'espèces d'oiseaux différents."
+    },
+    {
+        "instruction": "Île de Gorée",
+        "output": "La visite de l’île de Gorée s’est passée de la meilleure façon possible. Quelques petits soucis au début en raison du monde et de deux chaloupes indisponibles, mais notre guide a trouvé une solution rapidement. Olivier est le meilleur guide qu’on puisse avoir, sympathique et patient. Les guides sur place étaient très bien informés, rendant la visite encore plus agréable. Merci Secretoo !"
+    },
+    {
+        "instruction": "Lagune de la Somone",
+        "output": "Lagune de la Somone, une Réserve Naturelle de 700 hectares composée d'un écosystème de palétuviers et d'une centaine d'espèces d'oiseaux. Visitable en pirogue pour 1h de balade environ. Pour en profiter, contactez-nous au +221 77 666 82 72 WhatsApp. Satisfait ou Remboursé."
+    },
+    {
+        "instruction": "Fathala Wildlife Reserve",
+        "output": "Nous avons effectué cette excursion avec un guide local. Très belle découverte, une belle balade avec de très bonnes explications."
+    },
+    {
+        "instruction": "Île de Ngor",
+        "output": "Un lieu paradisiaque, reposant avec de bons restaurants !!! Une île que je recommande à tout le monde. Belle plage, bien surveillée par des maîtres-nageurs."
+    },
+    {
+        "instruction": "Le Monument de la Renaissance Africaine",
+        "output": "Monument grandiose, à voir et à visiter. Nous avons apprécié cette gigantesque œuvre. Prenez le temps de découvrir ce monument."
+    },
+    {
+        "instruction": "Parc National du Delta du Saloum",
+        "output": "Notre excursion dans le Sine Saloum a été une expérience inoubliable, organisée à la perfection par l’agence Secretoo. Ce cadre naturel préservé, entre mangroves, îles et lagunes, est un véritable paradis pour les amateurs de nature. Notre guide Olivier a partagé avec nous sa passion pour la région, en nous faisant découvrir la faune, la flore et les traditions locales. Merci Secretoo et Olivier !"
+    },
+    {
+        "instruction": "Joal Fadiout",
+        "output": "Une visite agréable, avec un guide expérimenté. Le village et la réserve offraient des vues magnifiques et une ambiance unique."
+    },
+    {
+        "instruction": "Lac Rose",
+        "output": "J'ai vraiment apprécié Lac Rose. Les hôtels sont jolis, les activités sont impressionnantes, et faire le tour du lac était inoubliable."
+    },
+    {
+        "instruction": "Lompoul Desert",
+        "output": "Le désert de Lompoul offre des panoramas ensorcelants lors d'excursions en quad, avec des dunes majestueuses sculptées par le vent. Les villages peuls environnants sont des havres de tradition et de convivialité, où le temps semble suspendu."
+    },
+    {
+        "instruction": "Plage Popenguine",
+        "output": "Un spot qui vaut vraiment le détour au Sénégal pour effectuer une rando très sympa (falaise et bunker) et finir dans les vagues."
+    },
+    {
+        "instruction": "Phare Des Mamelles",
+        "output": "Le Phare est ouvert au public tous les jours de 9h à 18h30. Un percepteur à l'entrée fait payer un droit de visite. Le restaurant est ouvert exclusivement le vendredi soir (Friday Live) et le samedi."
+    },
+    {
+        "instruction": "Marché HLM",
+        "output": "Toujours rester vigilant dans certains coins renfermés du marché. J'ai pu y trouver des sacs à dos, sandales, robes, boubous, etc."
+    },
+    {
+        "instruction": "Village des Arts",
+        "output": "Bel emplacement pour un dîner original, personnel charmant, cuisine bonne. Seul défaut, impossible de payer par carte bancaire, car les terminaux ne fonctionnaient pas."
+    },
+    {
+        "instruction": "Parc National du Niokolo-Koba",
+        "output": "Le parc offre une diversité impressionnante d'animaux, parfait pour un safari. Le guide local connaissait bien la région et nous a donné des explications très utiles."
+    },
+    {
+        "instruction": "Office de Tourisme de Casamance",
+        "output": "Chargé d'informer, conseiller et orienter les voyageurs, l'Office de tourisme de Casamance est situé dans l'un des plus anciens bâtiments de Ziguinchor."
+    },
+    {
+        "instruction": "Parc Exotique Du Sénégal",
+        "output": "Une expérience inoubliable, avec des paysages magnifiques et des animaux sauvages."
+    },
+    {
+        "instruction": "﻿site",
+        "output": "description"
+    },
+    {
+        "instruction": "Le Pays Lébou",
+        "output": "Kaay Findiw, Santhiaba, M’bakeundeu, Guy Salaan, Hock, Ngaraaf, Thieurigne, Yakh Dieuf, Diècko, Mbot, Thieudeme et Kaay Ousmane Diène renvoient aux 12 villages mythiques où vivent les Lebous, une communauté traditionnelle de pêcheurs. Un circuit qui permet aux adeptes d’histoire de découvrir leur culture et leur organisation."
+    },
+    {
+        "instruction": "Le Vieux Rufisque",
+        "output": "La visite du parcours de découverte du vieux Rufisque, est une expérience fabuleuse, d’une ville qui a connu une histoire prestigieuse grâce à ses relations avec le Portugal, l’Angleterre, la Hollande et la France dès le 15e siècle et surtout l’histoire industrielle, commerciale et portuaire de l’arachide."
+    },
+    {
+        "instruction": "Une retraite spirituelle au monastère de Keur Moussa",
+        "output": "À près de quarante kilomètres de Dakar, une abbaye bénédictine singulière et émouvante accueille les voyageurs en quête de spiritualité et de silence. Lieu de prières et de contemplation, Keur Moussa est aussi célèbre dans le monde entier pour la fabrication et l’exportation de koras, sa musique, ses messes où kora et balafon accompagnent les chants grégoriens."
+    },
+    {
+        "instruction": "Le Village des tortues de Sangalkam",
+        "output": "L’on y découvre plusieurs espèces de tortues dont la tortue géante sillonnée, la plus grosse tortue continentale du monde, qui peut atteindre 100 kg. L’on peut y assister aux accouplements, à la naissance d’une jeune tortue ou à la réparation d’une carapace fracturée."
+    },
+    {
+        "instruction": "La Maison Senghor",
+        "output": "Sur la corniche ouest, la maison du Premier Président du Sénégal, Léopold Sédar Senghor, a été transformée en musée. Dans la vaste demeure ocre de style soudano-sahélien, dont l’architecture lui vaut le nom des « Dents de la mer », l’esprit de son « immortel » occupant flotte partout."
+    },
+    {
+        "instruction": "Les ateliers des artistes du Village des Arts",
+        "output": "C’est un espace de quatre (4) hectares aménagé en ateliers qui accueillent des artistes aux disciplines diverses. Les visiteurs tombent sous le charme de bon nombre de petits souvenirs voire chefs d’œuvre."
+    },
+    {
+        "instruction": "Le Phare des Mamelles",
+        "output": "Ce phare, c’est tout un symbole! Installé sur une colline, il offre un panorama exceptionnel sur toute la Presqu’île du Cap Vert et la portée de son faisceau blanc (53 km), qui apparaît dans le ciel à la tombée de la nuit, en fait le deuxième phare d’Afrique."
+    },
+    {
+        "instruction": "Dakar Côté Atlantique",
+        "output": "La côte dakaroise est idéale pour les amateurs de farniente et de soleil. Il existe beaucoup de plages intimes, longues bandes de sable fin face aux vagues de l’Océan. Certaines sont proches de petits villages traditionnels de pêcheurs. Toutes permettent de goûter aux joies de la baignade, du farniente ou des sports nautiques. D’autres plaisirs sont au rendez-vous : dégustation de fruits de mer et ambiance nocturne assurée."
+    },
+    {
+        "instruction": "Le Sea Plaza",
+        "output": "Adresse incontournable du shopping à Dakar, le Sea Plaza est le premier centre commercial haut de gamme d’Afrique de l’Ouest. Fenêtre ouverte sur l’Atlantique, Le Sea Plaza a su séduire des marques internationales désireuses d’intégrer un environnement à leur image : plus de 80 enseignes et des attractions pour adultes et enfants (bowling, jeux, manèges, restaurants…)"
+    },
+    {
+        "instruction": "Le marché Kermel",
+        "output": "Kermel est un petit marché au cœur du vieux Dakar, niché dans un beau bâtiment en forme de dôme qui date du début du siècle. Surmontée d’une horloge, la coupole principale est la porte qui mène vers les étals. Des vendeuses de fleurs fraîches et des boutiques d’artisanat, (vanneries, poteries, boubous, batiks, bois, cuivre, instruments), sont installées autour de la place du marché."
+    },
+    {
+        "instruction": "Le village artisanal de Soumbédioune",
+        "output": "Rendez-vous au village artisanal de Soumbedioune pour découvrir la plus grande exposition d’objets et de souvenirs de fabrications artisanales du Sénégal."
+    },
+    {
+        "instruction": "L’Ile de Ngor",
+        "output": "À 5 minutes de Dakar, vous accédez en pirogue à un refuge paisible, loin du bruit et de la pollution. Un petit bout de terre sillonné de petites ruelles qui serpentent entre de belles villas."
+    },
+    {
+        "instruction": "Le Parc National des Iles de la Madeleine",
+        "output": "Plus petit parc marin au monde, l’archipel est le refuge de milliers d’oiseaux marins qui en ont fait leur lieu de repos et de reproduction."
+    },
+    {
+        "instruction": "La Place du Souvenir",
+        "output": "Deux panthéons – Celui de « La Résistance » qui recueille les figures de la résistance africaine; Celui de « La Culture » où sont présents les grands intellectuels, penseurs, écrivains et artistes."
+    },
+    {
+        "instruction": "Le Monument de la Renaissance Africaine",
+        "output": "Classé parmi les monuments les plus hauts du monde, l’œuvre est une imposante statue de 52 m en bronze et cuivre représentant un couple et un enfant."
+    },
+    {
+        "instruction": "Le musée d’art Africain",
+        "output": "Du nom de son fondateur, Théodore Monod, le Musée est logé dans l’ancien siège de l’Administration Générale de l’Afrique Occidentale Française (AOF)."
+    },
+    {
+        "instruction": "Lac Rose",
+        "output": "À 40 km de Dakar, le lac Retba est un lagon entouré de dunes et de filaos. Sa couleur rose est surprenante, due à une algue microscopique."
+    },
+    {
+        "instruction": "Gorée",
+        "output": "Au large des côtes de Dakar, Gorée exerce une fascination extraordinaire sur ses visiteurs."
+    },
+    {
+        "instruction": "﻿site",
+        "output": "description"
+    },
+    {
+        "instruction": "Le parc national des oiseaux du Djoudj",
+        "output": "Le Sénégal ne se limite pas à Dakar et aux stations balnéaires de la côte. Le \"pays de la Teranga\" regorge de sites somptueux pour satisfaire tous ceux qui recherchent le plaisir des yeux."
+    },
+    {
+        "instruction": "Le lac Rose",
+        "output": "Comme son nom l’indique, ce parc national est une réserve ornithologique où l’on peut observer quelque 350 espèces d’oiseaux. Situé dans le delta du fleuve Sénégal, le parc est un havre de paix pour les flamants roses, les pélicans blancs, les cormorans ou encore les martins-pêcheurs. Le Djoudj abrite bien d’autres espèces : singes rouges, crocodiles, phacochères, servals…"
+    },
+    {
+        "instruction": "Toubab Dialaw",
+        "output": "Si vous passez à Dakar, ne manquez pas le lac Rose, aussi appelé \"lac Rëtba\". Situé à 35 kilomètres de la capitale du Sénégal, ce lac salé surprend par sa couleur rose, qui s’explique par la présence d’une algue microscopique. Depuis les années 1970, le lac est exploité pour son sel. Il est d’ailleurs possible d’en observer la récolte lors d’une excursion en pirogue."
+    },
+    {
+        "instruction": "Carabane",
+        "output": ">> Créez votre voyage sur mesure au Sénégal avec notre partenaire"
+    },
+    {
+        "instruction": "Le parc national du Niokolo-Koba",
+        "output": "Aussi appelé \"Toubab Dialo\", ce village de pêcheurs est adossé à des falaises rouges offrant un spectacle saisissant. Ce site est également apprécié pour sa plage peu fréquentée. Toubab Dialaw est un centre artistique important du Sénégal : il abrite notamment un centre de danses traditionnelles africaines et une galerie d’art."
+    },
+    {
+        "instruction": "La Grande Mosquée de Touba",
+        "output": "⋙ Connaissez-vous les plus beaux marais salants du monde ?"
+    },
+    {
+        "instruction": "La Langue de Barbarie",
+        "output": "Aussi appelée \"Karabane, cette île située dans le delta du fleuve Casamance est l’un des sites paradisiaques du Sénégal. Peu peuplée, elle enchante les visiteurs par ses plages bordées de cocotiers sauvages, ses habitations de paille, sa mangrove et ses rizières. La faune et la flore de l’île sont également passionnantes. Depuis les plages, il n’est pas rare de voir s’ébattre des dauphins."
+    },
+    {
+        "instruction": "Les îles de la Madeleine",
+        "output": ">> Créez votre voyage sur mesure au Sénégal avec notre partenaire"
+    },
+    {
+        "instruction": "Fadiouth",
+        "output": "Situé au sud-est du Sénégal, le Niokolo-Koba est l’un des parcs les plus importants d’Afrique de l’Ouest. Cette réserve de biosphère de 9 130 kilomètres carrés alterne savane plantée de baobabs et forêt luxuriante. Elle abrite plus de 80 espèces de mammifères : chimpanzé, babouin, lion, léopard, buffle, lycaon, éland de Derby, hippopotame… Le parc est aussi réputé pour ses 330 espèces d’oiseaux."
+    },
+    {
+        "instruction": "Le parc national du delta du Saloum",
+        "output": "Cette mosquée est l’une des plus importantes d’Afrique, avec ses sept minarets et ses trois grandes coupoles. Longue de 100 mètres et large de 80 mètres, elle peut accueillir 7 000 fidèles."
+    },
+    {
+        "instruction": "﻿site",
+        "output": "description"
+    },
+    {
+        "instruction": "Attractions touristiques du Sénégal Oriental et ses environs",
+        "output": "L\\ne Sénégal Oriental est certainement l’une des destinations africaines qui vous réserve le plus de surprises. Un univers d’une beauté légendaire, une destination idéale pour les amateurs d’aventure et d’expériences au grand air. L’Afrique telle que l’on rêve, avec la savane, des cascades, des montagnes verdoyantes, des forêts denses, et surtout des peuples atypiques qui vivent en osmose avec la nature. Avec une population d’environ 300 O00 habitants, le Sénégal Oriental s’étend sur une superficie de 59 602 km² ce qui couvre près de 30% du territoire national. Il dispose d’une flore et d’une faune extrêmement riche. La faune abrite des animaux tels que : les hippopotames que l’on peut observer tout le long du fleuve Gambie, des éléphants, des lions, des buffles, des panthères, des singes, des antilopes, des crocodiles et des phacochères ainsi que près de 400 espèces d’oiseaux qui peuplent le parc national du Niokolokoba. La région est peuplée majoritairement de Peulhs, des Mandingues (Malinkés, Bambaras, Socés), des Bassaris, des Coniaguis ou Tendas-Bediks."
+    },
+    {
+        "instruction": "La ville et le Fort de Bakel",
+        "output": "Situé le long du fleuve Sénégal, au milieu de buttes rocheuses, à proximité des frontières avec la Mauritanie et le Mali, Bakel offre un patrimoine historique riche et varié. Cette ville perdue au fond du Sénégal oriental regorge d’authentiques traces de l’époque coloniale. En la visitant, on découvre de magnifiques sites dignes d’admiration. C’est le cas du pavillon René Caillé, du Fort de Faidherbe, des trois tours militaires et du cimetière des circoncis qui ont été inscrits en 2003 sur la liste des monuments historiques et qui se présentent comme un trésor susceptible de sortir cette"
+    },
+    {
+        "instruction": "Ecotourisme Sénégal Oriental",
+        "output": "localité de l’anonymat. Aussi connu comme «Faidherbe» et vieux de 190 ans, le Fort de Bakel fut construit entre 1818 et 1820. Il repose sur une colline qui surplombe la ville et offre une superbe vue panoramique."
+    },
+    {
+        "instruction": "Randonnées et Trekking",
+        "output": "Vous rêvez certainement d’etre connecté avec la nature lors de vos vacances au Sénégal, Le Sénégal Oriental vous offre des sites écotouristiques sans pareil avec des pistes de randonnées magnifiques, une flore et une faune extraordinaires. En pirogue, en voiture et à pied, l’écotourisme du Sénégal Oriental vous réserve de nombreuses surprises. Un espace qui met magnifiquement en valeur la symbiose entre la faune et la flore, c’est aussi le refuge de nombreux oiseaux aquatiques. C’est un paradis qui accueille chaque année environ 3 millions d’oiseaux répartis en"
+    },
+    {
+        "instruction": "Parc national du Niokolo-Koba",
+        "output": "près 400 espèces. Vous pourrez ainsi apprécier le vol des pélicans blancs, des flamants roses, ou encore des grues couronnées. On y retrouve environ 36 espèces de mammifères dont des hyènes, des grims, des phacochères, des singes verts, des tapas et bien d’autres espèces animales."
+    },
+    {
+        "instruction": "La chasse au Sénégal Oriental",
+        "output": "Le Sénégal Oriental est doté de plusieurs sentiers incontournables pour les mordus des randonnées pédestres. À pied, en voiture, en pirogue, en kayak et même à cheval des randonnées dans des terres inconnues en totale communion avec la nature, hors des sentiers battus, pour découvrir des sites hors du commun, des forêts, savanes et des cascades, nichés au cœur de paysages fabuleux vous y attendent. Une gamme variée de circuits vous est proposée en « pays » Peulh, Bedik et Bassari, et aller à la rencontre des populations. Certains de ces sentiers sont"
+    },
+    {
+        "instruction": "Les chutes de Dindefelo",
+        "output": "célèbres pour leur histoire et vous saurez apprécier les beaux paysages à couper le souffle et plusieurs sommets vous permettront de vous évader en altitude."
+    },
+    {
+        "instruction": "Les Pays Bassari et Bédik",
+        "output": "Situé à près de 600 km au sud de Dakar, le parc National du Niokolo-Koba fut créé en 1926 comme réserve de chasse et devient forêt classée en 1951 puis parc national en 1954. Le parc national du Niokolo-Koba s’étend sur une superficie de 900 000 hectares et abrite un grand nombre d’espèces animales telles que : des éléphants, des lions, des buffles, des panthères, des singes, de nombreuses antilopes, des hippopotames, des crocodiles et des phacochères ainsi que près de 400 espèces d’oiseaux. Il est inscrit depuis 1981 comme patrimoine Mondial de l’Unesco et au"
+    },
+    {
+        "instruction": "Nos produits",
+        "output": "réseau mondial des réserves de biosphère (M.A.B.). Sa Flore est également riche et est constituée de près de 1 500 espèces de plantes."
+    },
+    {
+        "instruction": "Nos circuits",
+        "output": "Le Sénégal Oriental dispose de plusieurs zones de chasse qui ont été spécialement aménagés et bien équipées autour des parcs nationaux. Il existe plusieurs campements de chasse à savoir : le campement de MISSIRA par exemple se trouve à 35 km au Sud de Tambacounda, celui de DIANA à 90 km au Sud Est et celui de BOUNDOU à 50 Km à l’Est du parc. Chaque territoire fait 60.000 ha et se situe en bordure du Parc National du Niakolokoba. Ici, vous pouvez pratiquer la chasse devant soi, en groupe pour le petit gibier en particulier les francolins, lièvres et pintades. La chasse au"
+    },
+    {
+        "instruction": "Tourisme",
+        "output": "« poste » en individuel pour les tourterelles, les pigeons rôniers et pigeons verts. La chasse à la « passée » pour les gangas, le matin ou le soir à la tombée de la nuit aux différents points d’eau. La chasse à « l’approche » pour les phacochères."
+    },
+    {
+        "instruction": "Langues",
+        "output": "Découvertes entre 1921 et 1923 par un chasseur, les chutes de Dindefelo sont classées parmi les sites naturels qui font la fierté du Sénégal. Située dans la région de Kédougou, la cascade prend sa source à 318 m d’altitude au mont Dandé, au cœur d’une végétation luxuriante avec un relief accidenté. Du sommet de la montagne, l’eau s’écrase sur les différents paliers, atterrit dans une chorégraphie impressionnante. Un bruissement d’eau qui s’entend à des centaines de kilomètres. Une invitation à une baignade rafraîchissante dans une source aux vertus thérapeutiques et"
+    },
+    {
+        "instruction": "Termes & Conditions",
+        "output": "mystérieuses dans une localité où la nature est d’une générosité extrême vous y attend."
+    },
+    {
+        "instruction": "Mentions Légales",
+        "output": "Les Bassaris et les Bédiks sont des peuples occupant la région du Sénégal Oriental qui y sont installés entre le XIe et le XIXe siècle. Des communautés atypiques dont la découverte des cultures est un véritable voyage au cœur des rites africains originels. L’osmose avec la nature se traduit dans les rites, les cérémonies d’initiation, l’architecture de leurs huttes tapies dans les collines. Une richesse classée depuis 2012 au patrimoine mondial de l’Unesco. Plusieurs objets culturels et traditionnels servant aux différents rituels ou rites d’initiation ont été conservés et"
+    },
+    {
+        "instruction": "Le Parc National du Niokolo-Koba",
+        "output": "Le Parc National du Niokolo-Koba est l’une des plus grandes réserves naturelles d’Afrique de l’Ouest. Ce parc, inscrit au patrimoine mondial de l’UNESCO, est un véritable paradis pour les amoureux de la nature. Il abrite une incroyable diversité de faune, y compris des lions, des éléphants, des buffles, des antilopes, et plus de 330 espèces d’oiseaux. Les paysages variés, allant des savanes aux forêts denses, en passant par des rivières et des montagnes, rendent chaque visite unique."
+    },
+    {
+        "instruction": "Le Parc National des Oiseaux du Djoudj",
+        "output": "Situé dans le nord du Sénégal, près de la ville de Saint-Louis, le Parc National des Oiseaux du Djoudj est un sanctuaire pour les oiseaux migrateurs. Ce site est particulièrement réputé pour sa population de pélicans et de flamants roses. Le parc est un lieu d’escale pour des millions d’oiseaux migrateurs qui viennent d’Europe pour y passer l’hiver. La meilleure période pour visiter le Djoudj est entre novembre et mars, lorsque le parc est peuplé de centaines de milliers d’oiseaux."
+    },
+    {
+        "instruction": "L’Île de Gorée",
+        "output": "L’Île de Gorée, située au large de Dakar, est un lieu chargé d’histoire. Connue pour avoir été l’un des principaux centres de commerce des esclaves en Afrique de l’Ouest, l’île abrite aujourd’hui la Maison des Esclaves, un musée poignant qui raconte l’histoire douloureuse de la traite négrière. Classée au patrimoine mondial de l’UNESCO, Gorée est également un lieu de charme avec ses rues pavées, ses maisons colorées, et ses vues panoramiques sur l’océan Atlantique."
+    },
+    {
+        "instruction": "La Réserve Naturelle de Popenguine",
+        "output": "La Réserve Naturelle de Popenguine, située sur la Petite Côte, est un autre joyau naturel du Sénégal. Ce site protégé est un havre de paix pour la faune et la flore locales. La réserve est particulièrement connue pour ses falaises spectaculaires et ses plages immaculées. C’est également un lieu de nidification pour de nombreuses espèces d’oiseaux. En plus de sa beauté naturelle, Popenguine est un site sacré pour les populations locales, qui y célèbrent chaque année des cérémonies religieuses."
+    },
+    {
+        "instruction": "Le Delta du Saloum",
+        "output": "Le Delta du Saloum est une région magnifique située au sud de Dakar, où la mer rencontre la terre pour former un labyrinthe de mangroves, de bras de mer, et d’îles. Cette région est non seulement un refuge pour la faune, notamment les oiseaux et les poissons, mais elle est aussi habitée par des communautés traditionnelles qui vivent de la pêche et de l’agriculture. Le Delta du Saloum est un endroit idéal pour des excursions en pirogue, des balades à pied ou à vélo, et pour découvrir la culture locale."
+    },
+    {
+        "instruction": "La Langue de Barbarie",
+        "output": "La Langue de Barbarie est une étroite bande de sable située près de la ville de Saint-Louis, qui sépare le fleuve Sénégal de l’océan Atlantique. Ce site est un véritable écosystème unique, où l’on peut observer une grande diversité d’espèces d’oiseaux, de tortues marines, et de dauphins. La Langue de Barbarie est également connue pour ses villages de pêcheurs et ses plages tranquilles, où les visiteurs peuvent se détendre et profiter de la beauté naturelle."
+    },
+    {
+        "instruction": "Le Lac Rose (Lac Retba)",
+        "output": "Le Lac Rose, officiellement connu sous le nom de Lac Retba, est un phénomène naturel fascinant situé à environ 30 kilomètres de Dakar. Ce lac doit sa couleur rose à la forte concentration de sel et à la présence d’une algue appelée Dunaliella salina. Le Lac Rose est un lieu de production de sel depuis des siècles, et les visiteurs peuvent observer les travailleurs extraire le sel du lac de manière traditionnelle. C’est également un lieu populaire pour les promenades en 4×4, les balades à cheval, et les séances photo."
+    },
+    {
+        "instruction": "Saint-Louis",
+        "output": "Saint-Louis, située dans le nord du Sénégal, est une ville historique qui a joué un rôle important pendant la période coloniale. Classée au patrimoine mondial de l’UNESCO, la ville est connue pour son architecture coloniale bien préservée, ses rues pittoresques, et ses ponts emblématiques, dont le célèbre Pont Faidherbe. Saint-Louis est également un centre culturel animé, avec de nombreux festivals, dont le célèbre Festival de Jazz de Saint-Louis."
+    },
+    {
+        "instruction": "Le Cap Skirring",
+        "output": "Le Cap Skirring, situé dans la région de la Casamance, est une destination de rêve pour les amateurs de plage. Ses plages de sable blanc bordées de cocotiers, ses eaux cristallines, et son climat tropical en font un lieu parfait pour la détente. Le Cap Skirring est également un point de départ idéal pour explorer la région de la Casamance, connue pour sa culture riche, ses villages authentiques, et sa nature luxuriante."
+    },
+    {
+        "instruction": "Les Îles de la Madeleine",
+        "output": "Les Îles de la Madeleine sont un petit archipel situé au large de Dakar. Ces îles inhabitées sont un parc national protégé, abritant une faune et une flore exceptionnelles. Les visiteurs peuvent y découvrir des paysages spectaculaires, des grottes marines, et une végétation luxuriante. C’est également un lieu de refuge pour de nombreuses espèces d’oiseaux. Les îles sont accessibles en bateau depuis Dakar et offrent une évasion paisible loin de l’agitation de la ville."
+    },
+    {
+        "instruction": "﻿site",
+        "output": "description"
+    },
+    {
+        "instruction": "1 – Dakar",
+        "output": "Capitale du Sénégal, Dakar est une ville portuaire sur l’océan Atlantique. A voir pour son ambiance, sa Médina avec la Grande Mosquée, le musée Théodore-Monot…"
+    },
+    {
+        "instruction": "2 – Le lac Rose",
+        "output": "La vie nocturne animée trouve son inspiration dans la musique locale, le mbalax"
+    },
+    {
+        "instruction": "3 – Le désert de Lompoul",
+        "output": "Le lac salé de Retba, plus connu sous le nom de lac Rose, doit son nom au fait que le lac se teinte parfois de reflets rosés provoqués par la salinité de l’eau. C’est l’un des sites les plus photographiés du Sénégal."
+    },
+    {
+        "instruction": "4 – Saint-Louis",
+        "output": "Avec une superficie de 18 km2, c’est l’un des plus petits déserts dans le monde. N’hésitez pas à passer une nuit sous une tente dans un camp Touareg typique."
+    },
+    
+    {
+        "instruction": "8 – Pays Bedik",
+        "output": "Classée à l’UNESCO, c’est l’une des plus belles villes de l’Afrique de l’Ouest avec son patrimoine architectural issu de l’époque coloniale."
+    },
+    {
+        "instruction": "9 – Sine Saloum",
+        "output": "Troisième réserve ornithologique du monde, elle abrite environ 3 millions d’oiseaux migrateurs dont une impressionnante colonie de pélicans."
+    }
+]
